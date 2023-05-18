@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.heading_note {
+    background-color: orange;
+}
+
+#play_button {
+    height: 60px;
+    width: 90px;
+    font-size: 23px;
+    float: left;
+    margin-top: 200px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.song_played {
+    float: center;
+}
+
+.song_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#song {
+    font-size: 23px;
+    margin: 15px;
+    float: right;
+}
