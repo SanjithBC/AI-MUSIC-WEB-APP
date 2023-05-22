@@ -8,16 +8,16 @@ body {
     margin: 0px;
 }
 
-.heading_note {
-    background-color: orange;
-}
-
 #play_button {
     height: 60px;
     width: 90px;
     font-size: 23px;
     float: left;
-    margin-top: 200px;
+    margin-top: 250px;
+}
+
+.heading_note {
+    background-color: orange;
 }
 
 .note {
@@ -36,6 +36,11 @@ body {
 
 #song {
     font-size: 23px;
-    margin: 15px;
     float: right;
+    margin-top: 200px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
 }
